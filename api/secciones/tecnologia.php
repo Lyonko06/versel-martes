@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $tecnologia = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "SPRING BOOT EL NUEVO ALCNAZE DE LAS TECNOLOGIAS",
+"autor" => "JAVA ENTERPRISE",
+"resumen" => "SE UTILZIA PARA EL BACKEND",
 ];
 ?>
