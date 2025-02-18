@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $cultura = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "LA GRAN MARAVILLA DEL MUNDO CUZCO",
+"autor" => "LEON CARLO",
+"resumen" => "MACCHU PICCHU",
 ];
 ?>
