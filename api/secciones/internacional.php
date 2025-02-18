@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $internacional = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "EL STREAMER IBAI LLANOS VENDRA APERU",
+"autor" => "DIARIO EL OJO",
+"resumen" => "STREAMER ESPAÑOL ESTARA DE GIRA EN PAISES SUDAMERICANOS",
 ];
 ?>
