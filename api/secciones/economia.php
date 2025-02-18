@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $economia = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "EL SOL PERUANO LA MONEDA MAS ESTABLE Y VALOR EN LATAM",
+"autor" => "Diario Chimbote",
+"resumen" => "PERU ES EL PAIS CONSIDERADO CON LA MEJOR ESTBAILIDAD ECONOMICA DEBIDO A SU MONEDA NACIONAL",
 ];
 ?>
