@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $opinion = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "OPINION PUBLIA DE LA CAMARA DE COMERCIO",
+"autor" => "EL DIARIO EL PERUANO",
+"resumen" => "SE CANCELA LA PARTICIPACION DE LA CAMARA DEL COMERCIO",
 ];
 ?>
